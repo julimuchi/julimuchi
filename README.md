@@ -4,6 +4,6 @@
 --Actualmente me encuentro estudiando React JS.
 
 --Hi my name is Julian Mutchinick
---I am from developer from Argentina.
+--I am a developer from Argentina.
 --I currently work in Web Development
 --I'm learning React JS.
